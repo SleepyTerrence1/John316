@@ -3,8 +3,12 @@ body{
   margin: auto;
   padding: 20px;
   background-color: rgb(244, 255, 193);
+  align-items: center;
 }
 nav{
   display: flex;
   background-color: rgb(251, 255, 12);
+    z-index: 999;
+    position: sticky;
+  box-shadow: 0 2px 6px rgba(29, 29, 29, 0.4);
 }
