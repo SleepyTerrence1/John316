@@ -2,7 +2,8 @@ body{
   font-family: 'Fredoka', sans-serif;
   margin: auto;
   padding: 20px;
+  background-color: rgb(244, 255, 193);
 }
 nav{
-  background-color: lightcoral;
+  background-color: rgb(251, 255, 12);
 }
